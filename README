@@ -1,0 +1,11 @@
+Tekoporu Framwork
+=================
+
+Los archivos pom.xml están configurados para el deploy de los artefactos en www.datosparaguay.org
+
+La url del repositorio configurado es 
+www.datosparaguay.org/artifactory/libs-snapshot-local (La versión es SNAPSHOT)
+Para la prueba puede colocarse en el archivo /etc/hosts una línea 
+con www.datosparaguay.org apuntando a la ip local o al servidor en donde se encuentra un Repo Manager Artifactory.
+
+
